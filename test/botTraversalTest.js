@@ -8,7 +8,7 @@ it('should print current position and current direction',function()
   assert.equals(botTraversalMovement(path),'3 1 W');
 });
 });
-describe('Valid Input',function()
+describe('Invalid Input',function()
 {
 it('should print current position and current direction',function()
 {
